@@ -1,0 +1,34 @@
+//--------------------------var
+$colorBg: #F79E1B;
+//--------------------------var
+
+
+
+.contentBox {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+
+    align-items: center;
+}
+
+.contentInner {
+
+    display: flex;
+    width: fit-content;
+    gap: 10px;
+    align-items: center;
+}
+
+.iconElement {}
+
+.iconStar {
+    font-size: 40px;
+}
+
+.quantityRating {
+    color: $colorBg;
+    font-size: 18px;
+
+}
